@@ -16,7 +16,7 @@ This is simple project CRUD books using framework django
   To access the applications go to the URL <http://localhost:8000/>
 
 
-# I need a user and password to access "books\_fbv\_user"
+# I need a user and password to access "books"
 
 Yes, the "book" demonstrate how CRUD can work with Django users, and you do
 need to create a user to test it, you can create a user using the following command:
